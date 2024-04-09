@@ -9,25 +9,22 @@
 >  Page - Imagem 2
 
 
-## Comentários 
-
-Projetinho Full-Stack que está sendo desenvolvido para fins comerciais.
-
-## Funcionalidades
-
-Cadastrar transações de entrada e saída
+## Comentários e Funcionalidades
+ 
+ Projetinho Full-Stack que está sendo desenvolvido para fins comerciais. <br>
+ Cadastrar transações de entrada e saída
 
 ## Tecnologias
 
-React; 
-Next JS
-Typescript
-Axios
-MirageJs 
-Context Api
-Styled Components
-Polished React - para escrever estilos em JS
-React Modal - lib para criação de modais de maneira prática
+React <br>
+Next JS <br>
+Typescript <br> 
+Axios <br>
+MirageJs <br>
+Context Api <br>
+Styled Components <br>
+Polished React  <br>
+React Modal  <br>
 
  
 ## 📝 Licença
