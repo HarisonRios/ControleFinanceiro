@@ -19,6 +19,7 @@
 - [ ] Responsividade de algumas telas
 - [ ] Melhorias no style da pagina principal
 
+- [ ] Deploy
 
 ## Tecnologias
 
