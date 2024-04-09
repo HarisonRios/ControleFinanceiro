@@ -11,8 +11,14 @@
 
 ## Comentários e Funcionalidades
  
- Projetinho Full-Stack que está sendo desenvolvido para fins comerciais. <br>
- Cadastrar transações de entrada e saída
+ Projetinho Full-Stack que está sendo desenvolvido para fins comerciais, com a prinicapl função de cadastrar transações de entrada e saída de valores. <br>
+ O projeto ainda está em fase de desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [ ] Criar um Sistema de login e registro 
+- [ ] Conectar o MongoBD ao projeto para ter um controle financeiro para cada usuário específico
+- [ ] Responsividade de algumas telas
+- [ ] Melhorias no style da pagina principal
+
 
 ## Tecnologias
 
